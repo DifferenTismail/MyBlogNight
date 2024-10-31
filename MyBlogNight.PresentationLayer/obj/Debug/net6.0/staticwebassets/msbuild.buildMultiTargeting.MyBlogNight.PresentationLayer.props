@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyBlogNight.PresentationLayer.props" />
+</Project>
