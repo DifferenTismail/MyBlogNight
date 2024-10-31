@@ -1,0 +1,12 @@
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\bin\Debug\net6.0\MyBlogNight.DtoLayer.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\bin\Debug\net6.0\MyBlogNight.DtoLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\bin\Debug\net6.0\MyBlogNight.DtoLayer.pdb
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.sourcelink.json
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\refint\MyBlogNight.DtoLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\MyBlogNight.DtoLayer.pdb
+C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.DtoLayer\obj\Debug\net6.0\ref\MyBlogNight.DtoLayer.dll

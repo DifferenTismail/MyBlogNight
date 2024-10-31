@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyBlogNight.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394d5610315743c3fcdb7db42f6efaa5163ee3e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38e72c382da26de3a730cff8c6a2c54806de6b4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyBlogNight.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBlogNight.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
