@@ -15,6 +15,6 @@ namespace MyBlogNight.DataAccessLayer.Context
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
-        public DbSet<TagCould> TagCoulds { get; set; }
+        public DbSet<TagCloud> TagClouds { get; set; }
     }
 }
