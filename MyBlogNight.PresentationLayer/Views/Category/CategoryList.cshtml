@@ -23,8 +23,8 @@
                     <tr>
                         <td>@item.CategoryId</td>
                         <td>@item.CategoryName</td>
-                        <td><a class="btn btn-danger btn-sm text-white"><i class="fas fa-trash-alt"></i> Sil</a></td>
-                        <td><a class="btn btn-success btn-sm text-white"><i class="fas fa-edit"></i> Güncelle</a></td>
+                        <td><a href="/Category/DeleteCategory/@item.CategoryId" class="btn btn-danger btn-sm text-white"><i class="fas fa-trash-alt"></i> Sil</a></td>
+                        <td><a href="/Category/UpdateCategory/@item.CategoryId" class="btn btn-success btn-sm text-white"><i class="fas fa-edit"></i> Güncelle</a></td>
                         <td><a class="btn btn-warning btn-sm text-white"><i class="fas fa-blog"></i> Bloglar</a></td>
                     </tr>
                 }
@@ -32,6 +32,6 @@
         </table>
     </div>
     <div class="text-end">
-        <a href="#" class="btn btn-primary btn-sm mt-3"><i class="fas fa-plus-circle"></i> Yeni Kategori Ekle</a>
+        <a href="/Category/CreateCategory/" class="btn btn-primary btn-sm mt-3"><i class="fas fa-plus-circle"></i> Yeni Kategori Ekle</a>
     </div>
 </div>
