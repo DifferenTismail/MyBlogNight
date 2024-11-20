@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyBlogNight.BusinessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab5a05f67a24590c1fbd289f09cede515b86f074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65598421a1803351661840daea6bab783d563c29")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyBlogNight.BusinessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBlogNight.BusinessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
