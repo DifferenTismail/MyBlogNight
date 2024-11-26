@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.PortableExecutable;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,5 +18,7 @@ namespace MyBlogNight.EntityLayer.Concrete
         public Category Category { get; set; }
         public int AppUserId { get; set; }
         public AppUser AppUser { get; set; }
+        public string Detail { get; set; }
+        public int? ArticleViewCount { get; set; }
     }
 }
