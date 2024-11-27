@@ -16,11 +16,16 @@ namespace MyBlogNight.DataAccessLayer.EntityFramework
         public EfArticleDal(BlogContext context) : base(context)
         {
         }
-
+        BlogContext context = new BlogContext(); 
         public List<Article> ArticleListWithCategory()
         {
-            var context = new BlogContext();
             var values = context.Articles.Include(x =>x.Category).ToList();
+            return values;
+        }
+
+        public List<Article> ArticleListWithCategoryAndAppUser()
+        {
+            var values = context.Articles.Include(x =>x.Category).Include(y => y.AppUser).ToList();
             return values;
         }
     }
