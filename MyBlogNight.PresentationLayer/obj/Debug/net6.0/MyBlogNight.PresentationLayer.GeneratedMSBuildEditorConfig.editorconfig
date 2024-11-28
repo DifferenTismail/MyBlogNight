@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNight\MyBlogNight.PresentationLayer
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNight/MyBlogNight.PresentationLayer/Views/Article/ArticleDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxBcnRpY2xlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNight/MyBlogNight.PresentationLayer/Views/Article/ArticleList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxBcnRpY2xlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
