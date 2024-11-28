@@ -28,6 +28,11 @@ namespace MyBlogNight.BusinessLayer.Concrete
             return _articleDal.ArticleListWithCategoryAndAppUser();
         }
 
+        public Article TArticleListWithCategoryAndAppUserByArticleId(int id)
+        {
+            return _articleDal.ArticleListWithCategoryAndAppUserByArticleId(id);
+        }
+
         public void TDelete(int id)
         {
             _articleDal.Delete(id);
