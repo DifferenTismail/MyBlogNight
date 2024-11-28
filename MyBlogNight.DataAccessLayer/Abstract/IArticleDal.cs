@@ -11,5 +11,6 @@ namespace MyBlogNight.DataAccessLayer.Abstract
     {
         List<Article> ArticleListWithCategory();
         List<Article> ArticleListWithCategoryAndAppUser();
+        Article ArticleListWithCategoryAndAppUserByArticleId(int id);
     }
 }

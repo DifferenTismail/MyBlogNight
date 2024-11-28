@@ -15,5 +15,11 @@ namespace MyBlogNight.DataAccessLayer.EntityFramework
         public EfCommentDal(BlogContext context) : base(context)
         {
         }
+        BlogContext context = new BlogContext();
+        public List<Comment> GetCommentsByArticleId(int id)
+        {
+            var value = context.Comments.ToList();
+            return value;
+        }
     }
 }
