@@ -34,5 +34,12 @@ namespace MyBlogNight.DataAccessLayer.EntityFramework
             var value = context.Articles.Where(x => x.ArticleId == id).Include(y => y.AppUser).Include(z => z.Category).FirstOrDefault();
             return value;
         }
+
+        public void ArticleViewCountIncrease(int id)
+        {
+            var updatedValue = context.Articles.Find(id);
+            updatedValue.ArticleViewCount += 1;
+            context.SaveChanges();
+        }
     }
 }
