@@ -1,0 +1,10 @@
+﻿@model List<MyBlogNight.EntityLayer.Concrete.Article>
+@{
+    Layout = null;
+}
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+@foreach(var item in Model)
+{
+    <h2 class="mb-3">@item.Title</h2>
+}

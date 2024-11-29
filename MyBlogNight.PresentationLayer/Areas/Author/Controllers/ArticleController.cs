@@ -19,8 +19,9 @@ namespace MyBlogNight.PresentationLayer.Areas.Author.Controllers
 
         public async Task<IActionResult> Index()
         {
-
-            return View();
+            var userValue = await _userManager.FindByNameAsync(User.Identity.Name);
+            var values = _articleService.TGetArticlesByAppUserId(userValue.Id);
+            return View(values);
         }
     }
 }
