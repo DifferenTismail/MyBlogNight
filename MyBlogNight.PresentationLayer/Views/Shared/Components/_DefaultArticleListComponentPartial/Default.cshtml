@@ -6,13 +6,13 @@
     @foreach (var item in Model)
     {
         <div class="card mb-4">
-            <img src="@item.MainImageUrl" style="height:350px;" class="card-img-top" alt="Blog Kapak">
+            <img src="@item.MainImageUrl" href="href=/Article/ArticleDetail/@item.ArticleId" style="height:350px;" class="card-img-top" alt="Blog Kapak">
             <div class="card-body">
                 <h5 class="card-title">@item.Title</h5>
                 <p class="card-text">
                     <small class="text-muted">Kategori:  @item.Category.CategoryName | Yazar: @item.AppUser.Name @item.AppUser.Surname | Tarih: @item.CreatedDate.ToString("dd-MMM-yyyy")</small>
                 </p>
-                <p class="card-text">@item.Detail.Substring(0, 200)... <a href="#">Devamını Oku</a></p>
+                <p class="card-text">@item.Detail.Substring(0, 200)... <a href="/Article/ArticleDetail/@item.ArticleId">Devamını Oku</a></p>
             </div>
         </div>
     }

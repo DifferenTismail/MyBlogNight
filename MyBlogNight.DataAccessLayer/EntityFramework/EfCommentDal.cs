@@ -1,4 +1,5 @@
-﻿using MyBlogNight.DataAccessLayer.Abstract;
+﻿using Microsoft.EntityFrameworkCore;
+using MyBlogNight.DataAccessLayer.Abstract;
 using MyBlogNight.DataAccessLayer.Context;
 using MyBlogNight.DataAccessLayer.Repositories;
 using MyBlogNight.EntityLayer.Concrete;
@@ -18,7 +19,7 @@ namespace MyBlogNight.DataAccessLayer.EntityFramework
         BlogContext context = new BlogContext();
         public List<Comment> GetCommentsByArticleId(int id)
         {
-            var value = context.Comments.ToList();
+            var value = context.Comments.Where(x =>x.ArticleId == id).Include(y => y.AppUser).ToList();
             return value;
         }
     }
