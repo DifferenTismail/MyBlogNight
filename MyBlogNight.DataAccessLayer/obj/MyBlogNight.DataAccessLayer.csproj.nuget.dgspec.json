@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj": {}
+    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj": {
+    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
         "projectName": "MyBlogNight.DataAccessLayer",
-        "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -36,8 +36,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj"
+              "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj"
               }
             }
           }
@@ -50,8 +50,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -72,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
+    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
         "projectName": "MyBlogNight.EntityLayer",
-        "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -118,8 +119,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -170,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

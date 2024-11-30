@@ -1,248 +1,520 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyBlogNight.PresentationLayer.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MyBlogNight.PresentationLayer.bundle.scp.css"
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyBlogNight.PresentationLayer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyBlogNight.PresentationLayer.bbgv5yhy89.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNight\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\css\\animate.css",
+      "PackagePath": "staticwebassets\\markedia\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\markedia\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\css\\colors.css",
+      "PackagePath": "staticwebassets\\markedia\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\markedia\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\markedia\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\css\\version\\marketing.css",
+      "PackagePath": "staticwebassets\\markedia\\css\\version\\marketing.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\markedia\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\markedia\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\markedia\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\markedia\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\markedia\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\markedia\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\ads-bg.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\ads-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\markedia\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\flogo.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\flogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\footer.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\hover.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\hover.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\markedia\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\logo.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\menubg.jpg",
+      "PackagePath": "staticwebassets\\markedia\\images\\menubg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\version\\market-logo.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\version\\market-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\images\\videohover.png",
+      "PackagePath": "staticwebassets\\markedia\\images\\videohover.png"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\animate.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\animate.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\custom.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\food-map.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\food-map.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\garden-map.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\garden-map.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\masonry.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\js\\tether.min.js",
+      "PackagePath": "staticwebassets\\markedia\\js\\tether.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\marketing-blog.html",
+      "PackagePath": "staticwebassets\\markedia\\marketing-blog.html"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\marketing-category.html",
+      "PackagePath": "staticwebassets\\markedia\\marketing-category.html"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\marketing-contact.html",
+      "PackagePath": "staticwebassets\\markedia\\marketing-contact.html"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\marketing-index.html",
+      "PackagePath": "staticwebassets\\markedia\\marketing-index.html"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\marketing-single.html",
+      "PackagePath": "staticwebassets\\markedia\\marketing-single.html"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\style.css",
+      "PackagePath": "staticwebassets\\markedia\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\author.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\author_01.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\author_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\author_02.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\author_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\banner_01.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\banner_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\banner_03.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\banner_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\blog_01.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\blog_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\blog_02.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\blog_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\blog_03.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\blog_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\blog_04.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\blog_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\blog_05.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\blog_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\blog_06.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\blog_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\cta.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\cta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\market_blog_01.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\market_blog_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\market_blog_02.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\market_blog_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\market_blog_03.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\market_blog_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\market_blog_04.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\market_blog_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\market_blog_05.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\market_blog_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\market_blog_06.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\market_blog_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_01.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_02.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_03.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_04.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_05.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_06.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_07.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_08.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\wwwroot\\markedia\\upload\\small_09.jpg",
+      "PackagePath": "staticwebassets\\markedia\\upload\\small_09.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyBlogNight.PresentationLayer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyBlogNight.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props",
