@@ -47,5 +47,11 @@ namespace MyBlogNight.DataAccessLayer.EntityFramework
             var values = context.Articles.Where(x => x.AppUserId == id).ToList();
             return values;
         }
+
+        public List<Article> ResentPosts()
+        {
+            var values = context.Articles.OrderByDescending(x => x.ArticleId).Take(3).ToList();
+            return values;
+        }
     }
 }
