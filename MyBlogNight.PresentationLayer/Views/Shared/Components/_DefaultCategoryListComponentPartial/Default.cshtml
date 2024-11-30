@@ -1,9 +1,11 @@
 ﻿ @model List<Category>
-<div class="mb-4">
-    <h5 class="border-bottom pb-2">Kategoriler</h5>
-    <ul class="list-group">
-        @foreach(var item in Model){
-        <li class="list-group-item">@item.CategoryName</li>
-        }
-    </ul>
-</div>
+<div class="widget">
+    <h2 class="widget-title">Kategoriler</h2>
+    <div class="link-widget">
+        <ul>
+            @foreach(var item in Model){
+                <li><a>@item.CategoryName</a></li>
+            }
+        </ul>
+    </div><!-- end link-widget -->
+</div><!-- end widget -->
