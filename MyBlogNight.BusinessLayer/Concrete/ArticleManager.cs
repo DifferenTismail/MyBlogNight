@@ -63,6 +63,11 @@ namespace MyBlogNight.BusinessLayer.Concrete
             _articleDal.Insert(entity);
         }
 
+        public List<Article> TResentPosts()
+        {
+            return _articleDal.ResentPosts();
+        }
+
         public void TUpdate(Article entity)
         {
             _articleDal.Update(entity);
