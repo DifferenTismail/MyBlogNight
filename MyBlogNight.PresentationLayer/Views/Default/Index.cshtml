@@ -1,50 +1,39 @@
 ﻿
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<!DOCTYPE html>
-<html lang="tr">
-@await Component.InvokeAsync("_DefaultHeadComponentPartial")
-
-<body>
-    <div class="container mt-4">
+<section class="section lb">
+    <div class="container">
         <div class="row">
-            <!-- Sidebar -->
-            <div class="col-md-4">
-                <!-- Kategoriler -->
-                @await Component.InvokeAsync("_DefaultCategoryListComponentPartial")
+            <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+                @await Component.InvokeAsync("_DefaultArticleListComponentPartial")
 
-                <!-- Sosyal Medya -->
-                @await Component.InvokeAsync("_DefaultSocialMediaComponentPartial")
+                <hr class="invis">
 
-                <!-- Öne Çıkan Bloglar -->
-                <div class="mb-4">
-                    <h5 class="border-bottom pb-2">Öne Çıkan Bloglar</h5>
-                    <ul class="list-group">
-                        <li class="list-group-item">En İyi Yazılım Araçları</li>
-                        <li class="list-group-item">Minimal Tasarım Rehberi</li>
-                        <li class="list-group-item">2024 Seyahat Trendleri</li>
-                    </ul>
-                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <nav aria-label="Page navigation">
+                            <ul class="pagination justify-content-center">
+                                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#">İleri</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div><!-- end col -->
+                </div><!-- end row -->
+            </div><!-- end col -->
 
-                <!-- Yazarlar -->
-                <div>
-                    <h5 class="border-bottom pb-2">Yazarlar</h5>
-                    <ul class="list-group">
-                        <li class="list-group-item">Ahmet Yılmaz</li>
-                        <li class="list-group-item">Elif Kara</li>
-                        <li class="list-group-item">Mehmet Öz</li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Blog Listesi -->
-            @await Component.InvokeAsync("_DefaultArticleListComponentPartial")
-        </div>
-    </div>
-
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                <div class="sidebar">
+                    @await Component.InvokeAsync("_DefaultResentPostsComponentPartial")
+                    @await Component.InvokeAsync("_DefaultCategoryListComponentPartial")
+                    
+                </div><!-- end sidebar -->
+            </div><!-- end col -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
