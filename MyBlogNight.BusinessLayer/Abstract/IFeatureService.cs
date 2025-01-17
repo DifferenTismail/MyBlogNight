@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyBlogNight.BusinessLayer.Abstract
 {
-    public interface ICommentService : IGenericService<Comment>
+    public interface IFeatureService : IGenericService<Feature>
     {
-        public List<Comment> TGetCommentsByArticleId(int id);
-        public List<Comment> TGetCommentsByAppUserId(int id);
     }
 }
