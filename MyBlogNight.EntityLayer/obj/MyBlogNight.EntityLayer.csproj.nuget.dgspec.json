@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {}
+    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
+    "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
         "projectName": "MyBlogNight.EntityLayer",
-        "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

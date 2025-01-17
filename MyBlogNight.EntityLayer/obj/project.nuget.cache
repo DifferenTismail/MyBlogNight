@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbsMB7UPXDA=",
+  "dgSpecHash": "wyUhRtz6tog=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ismai\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
