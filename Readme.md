@@ -47,6 +47,9 @@
 ![Admin Paneli Görüntüsü](photos/Author/AuthorMyArticle.jpg)
 ![Admin Paneli Görüntüsü](photos/Author/AuthorMyComment.jpg)
 
+### Sweet Alert Görüntüsü
+![Sweet Alert Görüntüsü](photos/SweetAlert.jpg)
+
 ### Blog Görüntüsü
 ![Blog Görüntüsü](photos/Default/Default.jpg)
 ![Blog Görüntüsü](photos/Default/DefaultArticleList.jpg)
