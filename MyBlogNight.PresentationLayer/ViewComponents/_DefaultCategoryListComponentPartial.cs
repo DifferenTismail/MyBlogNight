@@ -14,7 +14,8 @@ namespace MyBlogNight.PresentationLayer.ViewComponents
 
         public IViewComponentResult Invoke()
         {
-            var values = _categoryService.TGetAll();
+            var values = _categoryService.TCategoryListWithCount();
+
             return View(values);
         }
     }

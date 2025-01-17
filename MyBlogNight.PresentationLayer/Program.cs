@@ -18,7 +18,8 @@ builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<BlogCo
 builder.Services.ContainerDependencies();
 
 builder.Services.AddControllersWithViews().AddFluentValidation();
-
+builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
+builder.Services.AddScoped<ISubscribeDal, EfSubscribeDal>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

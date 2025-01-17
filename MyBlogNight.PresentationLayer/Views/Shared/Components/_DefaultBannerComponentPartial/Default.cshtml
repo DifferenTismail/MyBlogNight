@@ -1,0 +1,37 @@
+﻿@using System.Web
+@model Subscribe
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<section id="cta" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-12 align-self-center">
+                <h2>Benim Haber Bloğum</h2>
+                <p class="lead">Bu blog sitesi, farklı ilgi alanlarına hitap eden birden fazla kategoriyi bünyesinde barındıran, kullanıcı dostu ve mobil uyumlu bir platformdur. Ziyaretçiler, teknoloji, seyahat, yaşam tarzı, eğitim, yemek tarifleri gibi geniş bir yelpazede içeriklere ulaşabilir ve kendi ilgi alanlarına uygun makaleleri rahatlıkla keşfedebilir.</p>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="newsletter-widget text-center align-self-center">
+                    <h3>Haber Bültenine Kayıt Ol!</h3>
+                    <p>Siz de gelişmelerden hemen haberdar olmak için hemen haber bültenimize kayıt olun.</p>
+                    <form class="form-inline" method="post" action="/Default/AddNewsletter">
+                        <input type="email" asp-for="Email" placeholder="Mail Adresiniz.." required class="form-control" />
+                        <input type="submit" value="Abone Ol" class="btn btn-default btn-block" />
+                    </form>
+                </div>
+            </div>
+
+            @if (TempData["NewsletterMessage"] != null)
+            {
+                <script>
+                    Swal.fire({
+                        title: 'Başarılı!',
+                        text: '@Html.Raw(HttpUtility.JavaScriptStringEncode(TempData["NewsletterMessage"]?.ToString()))',
+                        icon: 'success',
+                        confirmButtonText: 'Tamam'
+                    });
+                </script>
+            }
+
+        </div>
+    </div>
+</section>

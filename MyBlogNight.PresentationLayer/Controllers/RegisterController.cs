@@ -28,7 +28,8 @@ namespace MyBlogNight.PresentationLayer.Controllers
                 Email = model.Email,
                 Surname = model.Surname,
                 UserName = model.Username,
-                ImageUrl = "test"
+                ImageUrl = "test",
+                Description = ""
             };
             var result = await _userManager.CreateAsync(appUser, model.Password);
 

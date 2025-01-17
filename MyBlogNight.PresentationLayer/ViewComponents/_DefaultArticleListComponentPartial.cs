@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MyBlogNight.BusinessLayer.Abstract;
-
+using X.PagedList;
+using X.PagedList.Extensions;
 namespace MyBlogNight.PresentationLayer.ViewComponents
 {
     public class _DefaultArticleListComponentPartial : ViewComponent
@@ -12,10 +13,12 @@ namespace MyBlogNight.PresentationLayer.ViewComponents
             _articleService = articleService;
         }
 
-        public IViewComponentResult Invoke()
+        public IViewComponentResult Invoke(int page = 1)
         {
+            int pageSize = 3; 
             var values = _articleService.TArticleListWithCategoryAndAppUser();
-            return View(values);
+            var pagedValues = values.ToPagedList(page, pageSize);
+            return View(pagedValues);
         }
     }
 }
