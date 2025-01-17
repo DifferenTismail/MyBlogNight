@@ -16,7 +16,6 @@
 - **⚙️ ViewComponent**: Dinamik içerikleri yönetmek ve tekrarlanan iş akışlarını kolaylaştırmak için kullanılır.
 - **✉️ Mail Abonelik Sistemi**: Kullanıcıların yazılardan abonelik almasını sağlar ve alınan mailleri veritabanında saklar.
 - **📦 Modüler Alanlar (Areas)**: Farklı alanlar ve projeler için ayrı ayrı yapıların tanımlandığı modüller.
-- **🔌 Kapsamlı API Desteği**: Uygulama üzerinden RESTful API ile dış sistemlerle entegrasyon yapma imkanı sunar.
 
 ## Kullanılan Teknolojiler 🛠️
 
