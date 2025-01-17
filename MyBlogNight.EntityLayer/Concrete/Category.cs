@@ -12,5 +12,7 @@ namespace MyBlogNight.EntityLayer.Concrete
         public string CategoryName { get; set; }
         public List<Article> Articles { get; set; }
 
+        public int ArticleCount { get; set; }
     }
+
 }
