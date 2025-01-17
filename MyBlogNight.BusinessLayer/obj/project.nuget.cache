@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igaGR5M077k=",
+  "dgSpecHash": "1VvEXkEy8Ng=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\MyBlogNight.BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\MyBlogNight.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismai\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ismai\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

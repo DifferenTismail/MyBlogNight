@@ -9,129 +9,153 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyBlogNight.PresentationLayer
 build_property.RootNamespace = MyBlogNight.PresentationLayer
-build_property.ProjectDir = C:\Users\ismai\OneDrive\Masaüstü\MyBlogNightTest\MyBlogNight.PresentationLayer\
+build_property.ProjectDir = C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNightTest\MyBlogNight.PresentationLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ismai\OneDrive\Masaüstü\MyBlogNightTest\MyBlogNight.PresentationLayer
+build_property.MSBuildProjectDirectory = C:\Users\ismai\OneDrive\Masaüstü\my\MyBlogNightTest\MyBlogNight.PresentationLayer
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/Article/Index.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/Article/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXEFydGljbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/Comment/MyCommentList.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/Comment/MyCommentList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXENvbW1lbnRcTXlDb21tZW50TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/Profile/EditMyProfile.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/Profile/EditMyProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXFByb2ZpbGVcRWRpdE15UHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/_ViewImports.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Areas/Author/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXV0aG9yXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Article/ArticleDetail.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Article/ArticleDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxBcnRpY2xlRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Article/ArticleList.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Article/ArticleList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxBcnRpY2xlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Article/CreateArticle.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Article/CreateArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDcmVhdGVBcnRpY2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Category/CategoryList.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Category/CategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Category/CreateCategory.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Category/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Category/UpdateCategory.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Category/UpdateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Default/Index.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Home/Index.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Home/Privacy.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Login/Index.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Register/Index.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_CommentListWithByArticleIdComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_AuthorFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0F1dGhvckZvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_AuthorHeaderComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0F1dGhvckhlYWRlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_AuthorLayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0F1dGhvckxheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_AuthorSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0F1dGhvclNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_CommentListWithByArticleIdComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0V2l0aEJ5QXJ0aWNsZUlkQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultArticleListComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultArticleListComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRBcnRpY2xlTGlzdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultCategoryListComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultBannerComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRCYW5uZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultCategoryListComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDYXRlZ29yeUxpc3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultHeadComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultHeadComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRIZWFkQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultResentPostsComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultResentPostsComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRSZXNlbnRQb3N0c0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultSocialMediaComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_DefaultSocialMediaComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRTb2NpYWxNZWRpYUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_LayoutFooterComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_LayoutFooterComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEZvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_LayoutHeaderComponentPartial/Default.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Components/_LayoutHeaderComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Error.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/_AuthorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRob3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/_ViewImports.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/_ViewStart.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ismai/OneDrive/Masaüstü/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/_Layout.cshtml]
+[C:/Users/ismai/OneDrive/Masaüstü/my/MyBlogNightTest/MyBlogNight.PresentationLayer/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-77k9hyb7dh

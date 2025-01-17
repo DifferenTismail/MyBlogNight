@@ -1,36 +1,88 @@
-﻿@model List<Article>
-@foreach(var item in Model){
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@model IPagedList<Article>
+<style>
+    .pagination li {
+        display: inline-block;
+    }
+
+        .pagination li a, .pagination li span {
+            background-color: #ffc107;
+            color: #000;
+            border: none;
+            padding: 10px 15px;
+            margin: 2px;
+            text-decoration: none;
+        }
+
+            .pagination li a:hover {
+                background-color: #e0a800;
+            }
+
+    .pagination .active span {
+        background-color: #e0a800;
+        font-weight: bold;
+    }
+
+    .pagination .disabled span {
+        background-color: #ffc107;
+        color: #aaa;
+    }
+</style>
+@foreach (var item in Model)
+{
     <hr class="invis">
-<div class="page-wrapper">
-    <div class="blog-custom-build">
-        <div class="blog-box wow fadeIn">
-            <div class="post-media">
+    <div class="page-wrapper">
+        <div class="blog-custom-build">
+            <div class="blog-box wow fadeIn">
+                <div class="post-media">
                     <a href="/Article/ArticleDetail/@item.ArticleId" title="">
                         <img src="@item.MainImageUrl" alt="" href="href=/Article/ArticleDetail/@item.ArticleId" class="img-fluid">
-                    <div class="hovereffect">
-                        <span></span>
-                    </div>
-                    <!-- end hover -->
-                </a>
-            </div>
-            <!-- end media -->
-            <div class="blog-meta big-meta text-center">
-                <div class="post-sharing">
-                    <ul class="list-inline">
-                        <li><a href="#" class="fb-button btn btn-primary"><i class="fa fa-facebook"></i> <span class="down-mobile">Share on Facebook</span></a></li>
-                        <li><a href="#" class="tw-button btn btn-primary"><i class="fa fa-twitter"></i> <span class="down-mobile">Tweet on Twitter</span></a></li>
-                        <li><a href="#" class="gp-button btn btn-primary"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div><!-- end post-sharing -->
+                        <div class="hovereffect">
+                            <span></span>
+                        </div>
+                        <!-- end hover -->
+                    </a>
+                </div>
+                <!-- end media -->
+                <div class="blog-meta big-meta text-center">
+                    <div class="post-sharing">
+                        <ul class="list-inline">
+                            <li><a href="#" class="fb-button btn btn-primary"><i class="fa fa-facebook"></i> <span class="down-mobile">Share on Facebook</span></a></li>
+                            <li><a href="#" class="tw-button btn btn-primary"><i class="fa fa-twitter"></i> <span class="down-mobile">Tweet on Twitter</span></a></li>
+                            <li><a href="#" class="gp-button btn btn-primary"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>
+                    </div><!-- end post-sharing -->
                     <h4><a href="/Article/ArticleDetail/@item.ArticleId" title="">@item.Title</a></h4>
                     <p>@item.Detail.Substring(0, 200)... <a href="/Article/ArticleDetail/@item.ArticleId">Devamını Oku</a></p>
                     <small>@item.Category.CategoryName</small>
                     <small><a href="href=/Article/ArticleDetail/@item.ArticleId" title="">@item.CreatedDate.ToString("dd-MMM-yyyy")</a></small>
                     <small><a href="#" title="">Yazar: @item.AppUser.Name @item.AppUser.Surname</a></small>
-                <small><a href="#" title=""><i class="fa fa-eye"></i> @item.ArticleViewCount</a></small>
-            </div><!-- end meta -->
-        </div><!-- end blog-box -->
-        
+                    <small><a href="#" title=""><i class="fa fa-eye"></i> @item.ArticleViewCount</a></small>
+                </div><!-- end meta -->
+            </div><!-- end blog-box -->
+
+        </div>
     </div>
-    </div>
+
+
+    <!-- end row -->
 }
+<hr class="invis">
+
+<div class="row">
+    <div class="col-md-12">
+        <nav aria-label="Page navigation">
+            @Html.PagedListPager(
+                     Model,
+                     page => Url.Action("Index", new { page = page }),
+                     new PagedListRenderOptions
+            {
+                LiElementClasses = new[] { "page-item" },
+                PageClasses = new[] { "page-link" },
+                UlElementClasses = new[] { "pagination", "justify-content-center" }
+            }
+                     )
+        </nav>
+    </div><!-- end col -->
+</div>

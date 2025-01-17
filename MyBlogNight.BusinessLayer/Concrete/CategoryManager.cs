@@ -18,6 +18,11 @@ namespace MyBlogNight.BusinessLayer.Concrete
             _categoryDal = categoryDal;
         }
 
+        public List<Category> TCategoryListWithCount()
+        {
+           return _categoryDal.CategoryListWithCount();
+        }
+
         public void TDelete(int id)
         {
             _categoryDal.Delete(id);   

@@ -1,0 +1,17 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    @await Component.InvokeAsync("_AuthorLayoutHeadComponentPartial")
+</head>
+<body>
+    @await Component.InvokeAsync("_AuthorHeaderComponentPartial")
+    @await Component.InvokeAsync("_AuthorSidebarComponentPartial")
+    @RenderBody()
+    @await Component.InvokeAsync("_AuthorLayoutHeadComponentPartial")
+   
+</body>
+</html>

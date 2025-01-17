@@ -2137,11 +2137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
       "projectName": "MyBlogNight.DataAccessLayer",
-      "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -2166,8 +2166,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj"
+            "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.EntityLayer\\MyBlogNight.EntityLayer.csproj"
             }
           }
         }
