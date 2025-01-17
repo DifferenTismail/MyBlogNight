@@ -22,5 +22,11 @@ namespace MyBlogNight.DataAccessLayer.EntityFramework
             var value = context.Comments.Where(x =>x.ArticleId == id).Include(y => y.AppUser).ToList();
             return value;
         }
+
+        public List<Comment> GetCommentsByAppUserId(int id)
+        {
+            var values = context.Comments.Where(x => x.AppUserId == id).ToList();
+            return values;
+        }
     }
 }

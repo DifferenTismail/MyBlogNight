@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyBlogNight.DataAccessLayer.Abstract
 {
-    public interface ICommentDal : IGenericDal<Comment>
+    public interface ISubscribeDal : IGenericDal<Subscribe>
     {
-        List<Comment> GetCommentsByArticleId(int id);
-        List<Comment> GetCommentsByAppUserId(int id);
     }
 }
