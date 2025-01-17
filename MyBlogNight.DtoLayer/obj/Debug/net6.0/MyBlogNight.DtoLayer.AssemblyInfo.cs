@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyBlogNight.DtoLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c497f50c974ace10138e6bcbc08e9468152cb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4ca667d357e27456eae7fb94fadf0ed193ca1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyBlogNight.DtoLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBlogNight.DtoLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

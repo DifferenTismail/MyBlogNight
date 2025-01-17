@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ppzCVlEJVNI=",
+  "dgSpecHash": "7Zel4fY2fSI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\MyBlogNight.PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.PresentationLayer\\MyBlogNight.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismai\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\ismai\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
@@ -219,7 +219,9 @@
     "C:\\Users\\ismai\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\ismai\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\ismai\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\ismai\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\ismai\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\x.pagedlist\\10.5.7\\x.pagedlist.10.5.7.nupkg.sha512",
+    "C:\\Users\\ismai\\.nuget\\packages\\x.pagedlist.mvc.core\\10.5.7\\x.pagedlist.mvc.core.10.5.7.nupkg.sha512"
   ],
   "logs": [
     {

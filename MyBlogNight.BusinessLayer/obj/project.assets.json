@@ -2265,11 +2265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\MyBlogNight.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\MyBlogNight.BusinessLayer.csproj",
       "projectName": "MyBlogNight.BusinessLayer",
-      "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\MyBlogNight.BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\MyBlogNight.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -2294,8 +2294,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj"
+            "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DataAccessLayer\\MyBlogNight.DataAccessLayer.csproj"
             }
           }
         }

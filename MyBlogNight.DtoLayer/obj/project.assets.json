@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DtoLayer\\MyBlogNight.DtoLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DtoLayer\\MyBlogNight.DtoLayer.csproj",
       "projectName": "MyBlogNight.DtoLayer",
-      "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DtoLayer\\MyBlogNight.DtoLayer.csproj",
+      "projectPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DtoLayer\\MyBlogNight.DtoLayer.csproj",
       "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\MyBlogNightTest\\MyBlogNight.DtoLayer\\obj\\",
+      "outputPath": "C:\\Users\\ismai\\OneDrive\\Masaüstü\\my\\MyBlogNightTest\\MyBlogNight.DtoLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
