@@ -1,7 +1,7 @@
 # MyBlogNight 🌙✍️
 
 **MyBlogNight** projesi, .NET 6.0 ile geliştirilmiş, n katmanlı mimariye sahip modern ve kullanıcı dostu bir blog platformudur. Bu sistem, kullanıcıların kendi blog yazılarını oluşturup paylaşmasına ve içeriklerle etkileşimde bulunmasına olanak tanır. Kolay navigasyon, güçlü veri yönetimi ve dinamik içerik sunumu gibi özelliklerle zengin bir blog deneyimi sunar.
-
+ 
 ## Özellikler 🚀  
 - **🌐 Kullanıcı Dostu Arayüz**: Modern ve mobil uyumlu tasarımı ile her cihazda rahatlıkla erişilebilir.
 - **📝 Blog Yönetimi**: Kullanıcılar kendi blog yazılarını oluşturabilir, düzenleyebilir ve yayınlayabilir.
